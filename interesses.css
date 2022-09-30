@@ -1,0 +1,120 @@
+
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+    }
+    a{
+        color: #fff;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+a:hover {
+    opacity: 0.7;
+}
+nav {
+    display: flex;
+    align-content: center;
+     background-color: #381ff8ca  ;
+     
+}
+.logo {
+     height: 30vh;
+     margin-left: 50vh;
+     margin-top: 30px;
+     border: -200px;
+     background-color: rgba(0, 0, 255, 0);
+     box-sizing: border-box;
+}
+body{
+     border: rgba(85, 0, 255, 0.601), solid 10px;
+    background-image: url(/paisagens\ de\ tarde\ original.jpg );
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat ;
+}
+.butão1{
+    top: 2%;
+    position: absolute;
+    left: 70%;
+    color: #fff;
+    /* margin-left: 1%; */
+flex-direction: row;
+padding: 10PX;
+border-radius: 15px;
+height: 50px;
+width: 110px;
+border: white solid 1px;
+background-color: rgba(0, 0, 0, 0);
+cursor: pointer;
+/* transition: all .2s ease; */
+font-family: 'Michroma', sans-serif;
+font-size: 10px;
+}
+.butão1:hover{
+    background-color: rgba(255, 255, 255, 0.343);
+}
+.butão2{
+    top: 2%;
+    position: absolute;
+    left: 80%;  
+    color: #fff;
+flex-direction: row;
+padding: 10PX;
+border-radius: 15px;
+height: 50px;
+width: 110px;
+border: white solid 1px;
+background-color: rgba(0, 0, 0, 0);
+cursor: pointer;
+/* transition: all .2s ease; */
+font-family: 'Michroma', sans-serif;
+font-size: 10px;
+}
+.butão2:hover{
+    background-color: rgba(255, 255, 255, 0.343);
+}
+.butão3{
+    position: absolute;
+    left: 90%;
+    top: 2%;
+    color: #fff;
+flex-direction: row;
+padding: 10PX;
+border-radius: 15px;
+height: 50px;
+width: 110px;
+border: white solid 1px;
+background-color: rgba(0, 0, 0, 0);
+cursor: pointer;
+transition: all .2s ease;
+font-family: 'Michroma', sans-serif;
+font-size: 10px;
+}
+.butão3:hover{
+    background-color: rgba(255, 255, 255, 0.343);
+}
+.int9{
+    margin-top: 10%;
+    margin-left:24%;
+    width: 50%;
+    height: 350px;
+    background-color: rgba(11, 10, 10, 0.463);
+    border-radius: 40px;
+    text-align: justify;
+    border: #fff solid 1px;
+}
+h1{
+    text-align: center ;
+    font-family: 'Viga', sans-serif;
+    color: aliceblue;
+}
+.a7{
+    margin: 20px;
+    font-family: 'Viga', sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+}
