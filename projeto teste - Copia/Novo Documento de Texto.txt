@@ -1,0 +1,8 @@
+var button = document.getElementById("airton");
+
+button.addEventListener("click", function(){
+
+    var brabo = document.getElementById("guedes");
+    brabo.classList.toggle("hide")
+
+});
