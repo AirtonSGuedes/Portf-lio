@@ -29,7 +29,7 @@ nav {
 }
 body{
      border: rgba(85, 0, 255, 0), solid 10px;
-    background-image: url(./img/paisagens\ de\ tarde\ original.jpg );
+    background-image: url(.img/paisagens\ de\ tarde\ original.jpg );
     background-size: cover;
     background-position: center;
     height: 140vh;
