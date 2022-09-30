@@ -29,7 +29,7 @@ nav {
 }
 body{
      border: rgba(85, 0, 255, 0), solid 10px;
-    background-image: url(/img/paisagens\ de\ tarde\ original.jpg );
+    background-image: url(./img/paisagens\ de\ tarde\ original.jpg );
     background-size: cover;
     background-position: center;
     height: 140vh;
@@ -176,7 +176,7 @@ body{
 #A26{
     background-repeat: no-repeat ;
     background-size: cover;
-    background-image: url(/img/airton.jpg);
+    background-image: url(./img/airton.jpg);
     background-color: rgba(250, 8, 8, 0.979);
     width: 300px;
     height: 400px;
